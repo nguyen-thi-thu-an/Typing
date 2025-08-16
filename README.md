@@ -21,11 +21,16 @@ Lý do:
 + Vì khi vào thi sẽ không copy được thông tin từ trình duyệt Chorme, Edge, ...
 + Nhưng lại có thể copy được thông tin từ ứng dụng ChatGPT
 
-**Bước 2**: Đặt câu hỏi trên ứng dụng ChatGPT và copy câu trả lời của ChatGPT vào trong công cụ.
+**Bước 2**: Chuẩn bị màn hình phụ. Màn hình chính mở trang đào tạo để thi, màn hình phụ mở ChatGPT và công cụ gõ hộ
+Lý do:
++ Khi làm bài thi, nếu alt tab ra ngoài, hoặc mở 1 ứng dụng nào đó chiếm full màn hình sẽ bị tính ra ngoài và sẽ bị mất 1 lượt thi
++ Khi làm bài, nếu di chuột ra bên ngoài trong chế độ 2 màn hình thì lại **không bị tính** là ra ngoài.
 
-**Bước 3**: Bấm vào nút **Căn chỉnh text** để chỉnh lại format.
+**Bước 3**: Đặt câu hỏi trên ứng dụng ChatGPT và copy câu trả lời của ChatGPT vào trong công cụ.
 
-**Bước 4**: Chỉ chuột vào cửa sổ cần gõ text, bấm F2 là công cụ sẽ gõ hộ nội dung đã chuẩn bị.
+**Bước 4**: Bấm vào nút **Căn chỉnh text** để chỉnh lại format.
+
+**Bước 5**: Chỉ chuột vào cửa sổ cần gõ text, bấm F2 là công cụ sẽ gõ hộ nội dung đã chuẩn bị.
 
 ------------
 
