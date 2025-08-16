@@ -8,7 +8,7 @@ Công cụ sẽ hỗ trợ việc làm bài thi thuận lợi hơn
 
 # Cài đặt
 + Công cụ có thể chạy trực tiếp mà không cần cài đặt. 
-+ Công cụ được viết bằng C++, chạy trên Windows.
++ Công cụ được viết bằng C++, chạy trên **Windows**.
 + Nếu bật công cụ lên mà bị báo là thiếu file dll thì cài thêm **Visual C++ Redistributable** tại link sau:
 https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 
