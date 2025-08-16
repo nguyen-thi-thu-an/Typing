@@ -18,8 +18,8 @@ https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=ms
 # Cách sử dụng
 **Bước 0 - Chuẩn bị ChatGPT**: Cài ứng dụng ChatGPT từ Microsoft Store https://apps.microsoft.com/detail/9nt1r1c2hh7j?hl=en-US&gl=US
 Lý do: 
-+ Vì khi vào thi sẽ không copy được thông tin từ trình duyệt Chorme, Edge, ...
-+ Nhưng lại có thể copy được thông tin từ ứng dụng ChatGPT
++ Vì khi vào thi sẽ không copy được thông tin từ trình duyệt Chorme, Edge, ... sang công cụ gõ hộ
++ Nhưng lại có thể copy được thông tin từ ứng dụng ChatGPT sang công cụ gõ hộ
 
 **Bước 0 - Chuẩn bị màn hình phụ**: Chuẩn bị màn hình phụ. Màn hình chính mở trang đào tạo để thi, màn hình phụ mở ChatGPT và công cụ gõ hộ
 Lý do:
