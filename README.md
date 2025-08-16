@@ -1,5 +1,5 @@
 # Tổng quan
-Thi miniMBA bằng website của đào tạo đang chặn quyền copy và paste.
+Thi **miniMBA** bằng website của đào tạo đang chặn quyền copy và paste.
 Dẫn đến việc làm bài thi phải gõ khá mỏi tay.
 Công cụ sẽ hỗ trợ việc làm bài thi thuận lợi hơn
 ![](GoHo.png)
