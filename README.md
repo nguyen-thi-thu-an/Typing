@@ -2,6 +2,8 @@
 Thi **miniMBA** bằng website của đào tạo đang chặn quyền copy và paste.
 Dẫn đến việc làm bài thi phải gõ khá mỏi tay.
 Công cụ sẽ hỗ trợ việc làm bài thi thuận lợi hơn
+
+Với công cụ, chỉ cần dùng Snipping Tool để capture đề thi, ném vào ChatGPT để có câu trả lời. Copy câu trả lời vào công cụ Gõ hộ và bấm F2.
 ![](GoHo.png)
 
 ------------
