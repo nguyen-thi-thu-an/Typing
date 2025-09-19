@@ -41,5 +41,5 @@ Lý do:
 
 # Bản quyền (LicenseID)
 + Gửi email DeviceID tới annguyen210 @ gmail để được hỗ trợ
-+ Chi phí là 150k cho một LicenseID tương ứng với 1 DeviceID
++ Chi phí là 99k cho một LicenseID tương ứng với 1 DeviceID
 
