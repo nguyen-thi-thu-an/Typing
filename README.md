@@ -9,10 +9,10 @@ Với công cụ, chỉ cần dùng Snipping Tool để capture đề thi, ném 
 ------------
 
 # Cài đặt
+https://github.com/nguyen-thi-thu-an/Typing/archive/refs/heads/main.zip
 + Công cụ có thể chạy trực tiếp mà không cần cài đặt. 
 + Công cụ được viết bằng C++, chạy trên **Windows**.
-+ Nếu bật công cụ lên mà bị báo là thiếu file dll thì cài thêm **Visual C++ Redistributable** tại link sau:
-https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
+
 
 ------------
 
@@ -41,4 +41,10 @@ Lý do:
 
 # Bản quyền (LicenseID)
 + Gửi email DeviceID tới annguyen210 @ gmail để được hỗ trợ tạo LicenseID
+
+# Lỗi cài đặt
++ Nếu bật công cụ lên mà bị báo là thiếu file dll thì cài thêm **Visual C++ Redistributable** tại link sau:
+https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
+
+------------
 
