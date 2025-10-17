@@ -18,11 +18,6 @@ https://github.com/nguyen-thi-thu-an/Typing/archive/refs/heads/main.zip
 
 
 # Cách sử dụng
-**Bước 0 - Chuẩn bị ChatGPT**: Cài ứng dụng ChatGPT từ Microsoft Store https://apps.microsoft.com/detail/9nt1r1c2hh7j?hl=en-US&gl=US
-Lý do: 
-+ Vì khi vào thi sẽ không copy được thông tin từ trình duyệt Chorme, Edge, ... sang công cụ gõ hộ
-+ Nhưng lại có thể copy được thông tin từ ứng dụng ChatGPT sang công cụ gõ hộ
-
 **Bước 0 - Chuẩn bị màn hình phụ**: Chuẩn bị màn hình phụ. Màn hình chính mở trang đào tạo để thi, màn hình phụ mở ChatGPT và công cụ gõ hộ
 Lý do:
 + Khi làm bài thi, nếu alt tab ra ngoài, hoặc mở 1 ứng dụng nào đó chiếm full màn hình sẽ bị tính ra ngoài và sẽ bị mất 1 lượt thi
@@ -30,7 +25,7 @@ Lý do:
 
 **Bước 1**: Vào trang đào tạo để thi, nó bật ra chế độ full màn hình.
 
-**Bước 2**: Di chuột sang màn hình phụ để đặt câu hỏi trên ứng dụng ChatGPT và copy câu trả lời của ChatGPT vào trong công cụ.
+**Bước 2**: Di chuột sang màn hình phụ để đặt câu hỏi trên ChatGPT và copy câu trả lời của ChatGPT vào trong công cụ.
 
 **Bước 3**: Bấm vào nút **Căn chỉnh text** để chỉnh lại format.
 
